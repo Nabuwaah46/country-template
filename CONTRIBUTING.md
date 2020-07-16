@@ -1,6 +1,4 @@
-> This file defines the rules to follow to contribute to your repository.
-> The rules suggested here are what we generally use for OpenFisca country packages.
-> You can of course edit them, and you should probably remove this block :)
+> This file defines contributors for OpenFiscal available reviewers providing guidelines for new countries and tax reform intervention.
 
 Thank you for wanting to contribute to OpenFisca! :smiley:
 
